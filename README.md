@@ -40,6 +40,8 @@ Quick Steps to Unlock a User Account in Active Directory <br />
 <img src="https://imgur.com/lc6IiZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p align="center">
 6.Inform the User – Confirm with the user that they can log in successfully.  <br/>
+<p align="center">
+<img src="https://imgur.com/WSdZV27.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <!--
  ```diff
